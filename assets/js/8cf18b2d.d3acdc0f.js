@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmcpro_faq=self.webpackChunkmcpro_faq||[]).push([[4694],{4920:o=>{o.exports=JSON.parse('{"permalink":"/mcpro-faq/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

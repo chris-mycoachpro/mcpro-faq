@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmcpro_faq=self.webpackChunkmcpro_faq||[]).push([[316],{4160:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/mcpro-faq/blog/tags/hola","allTagsPath":"/mcpro-faq/blog/tags","count":1}')}}]);
